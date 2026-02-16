@@ -1,0 +1,11 @@
+{
+    "firstname" : "Mind",
+    "lastname" : "Leyly",
+    "totalprice" : 9500,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2026-07-13",
+        "checkout" : "2026-07-15"
+    },
+    "additionalneeds" : "Spa"
+}
